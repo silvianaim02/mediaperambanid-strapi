@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "specieses",
+  "info": {
+    "singularName": "species",
+    "pluralName": "specieses",
+    "displayName": "species"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "famili": {
+      "type": "string"
+    },
+    "ordo": {
+      "type": "string"
+    }
+  }
+}
